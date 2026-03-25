@@ -1,12 +1,13 @@
-<!-- Dark-Optimized GitHub Profile README -->
+<!-- Dark-Themed GitHub Profile README with Custom Banner -->
 
 <div align="center" style="background-color:#0d1117; padding:20px; border-radius:15px;">
 
 <h1 style="color:white;">Hi, I'm Usman Siddiqui 👋</h1>
 <h3 style="color:#8b949e;">Aspiring ML Engineer | Python | AI & Data Science Enthusiast</h3>
 
-<!-- Dark Banner -->
-<img src="https://images.unsplash.com/photo-1612831455549-2d93f02e47c6?auto=format&fit=crop&w=1400&q=80" width="100%" style="border-radius:15px; margin-top:15px;"/>
+<!-- Custom Dark Banner -->
+<img src="https://raw.githubusercontent.com/siddiquiusman123/siddiquiusman123/main/e9df8cc2-8198-4d76-9c5b-da3b6f4e42cd.png" 
+     width="100%" style="border-radius:15px; margin-top:15px;"/>
 
 <!-- Social Badges -->
 <p style="margin-top:10px;">
@@ -70,9 +71,6 @@
 </a>
 <a href="https://www.linkedin.com/in/usman-siddiqui-915256/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/yourtwitter">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 </p>
 </div>
