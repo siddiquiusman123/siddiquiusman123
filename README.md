@@ -1,20 +1,23 @@
-<!-- Dark Background GitHub Profile README -->
+<!-- Dark-Themed GitHub Profile README -->
 
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px;">
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:15px;">
 
 <h1 style="color:white;">Hi, I'm Usman Siddiqui 👋</h1>
 <h3 style="color:#8b949e;">Aspiring ML Engineer | Python | AI & Data Science Enthusiast</h3>
 
-<!-- Optional Dark Banner Image -->
-<img src="https://images.unsplash.com/photo-1612831455549-2d93f02e47c6?auto=format&fit=crop&w=1400&q=80" width="100%" style="border-radius:10px; margin-top:10px;"/>
+<!-- Dark Banner Image -->
+<img src="https://images.unsplash.com/photo-1612831455549-2d93f02e47c6?auto=format&fit=crop&w=1400&q=80" width="100%" style="border-radius:15px; margin-top:15px;"/>
 
 <!-- Social Badges -->
-<p>
+<p style="margin-top:10px;">
   <a href="https://www.linkedin.com/in/usman-siddiqui-915256/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:siddiquiusman915256@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourtwitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
@@ -24,7 +27,7 @@
 
 ## 🛠 Skills
 
-<div style="background-color:#161b22; padding:20px; border-radius:10px;">
+<div style="background-color:#161b22; padding:20px; border-radius:15px; margin-top:10px;">
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -40,7 +43,7 @@
 
 ## 🚀 Projects
 
-<div style="background-color:#161b22; padding:20px; border-radius:10px;">
+<div style="background-color:#161b22; padding:20px; border-radius:15px; margin-top:10px;">
 - **IMDb Movie Review Sentiment Analysis** – NLP model deployed on Streamlit. [Demo](https://your-link)
 - **Spam Message Detection** – ML classifier to detect spam messages. [Demo](https://your-link)
 - **Movie Recommender System** – Collaborative & content-based filtering. [Demo](https://your-link)
@@ -54,7 +57,25 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="center" style="margin-top:15px;">
   <img src="https://github-readme-stats.vercel.app/api?username=siddiquiusman123&show_icons=true&theme=dark&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiquiusman123&layout=compact&theme=dark&hide_border=true" />
+</div>
+
+---
+
+## 💬 Connect with Me
+
+<div style="background-color:#161b22; padding:15px; border-radius:15px; margin-top:10px;" align="center">
+<p>
+<a href="mailto:siddiquiusman915256@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/usman-siddiqui-915256/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/yourtwitter">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+</p>
 </div>
